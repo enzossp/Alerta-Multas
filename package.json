@@ -1,5 +1,5 @@
 {
-  "name": "alerta-multas---monitoramento-inteligente",
+  "name": "alerta-multas-monitoramento-inteligente",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -16,7 +16,7 @@
   "devDependencies": {
     "@types/node": "^22.14.0",
     "@vitejs/plugin-react": "^5.0.0",
-    "typescript": "~5.8.2",
+    "typescript": "^5.8.2",
     "vite": "^6.2.0"
   }
 }
